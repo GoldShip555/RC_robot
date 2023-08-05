@@ -1,5 +1,6 @@
 # RC_robot
-OSOYOOのロボットカーをSTM32f405に載せ替えてC言語で制御及び機能追加してみた
+OSOYOOのロボットカーをSTM32f405に載せ替え
+C言語で制御及び機能追加
 ハードウェアのリンク
 https://osoyoo.com/ja/2021/04/09/sg90-servo-steering-robot-car-kit/
 
